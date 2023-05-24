@@ -1,3 +1,24 @@
 body {
   background-color: #F4EEED;
+  text-align: center;
+}
+
+
+
+section {
+  /* border: 10px solid greenyellow; */
+  padding: 19.2px;
+  margin: 1.5rem;
+  opacity: 1;
+}
+
+.track-package {
+  border: 50px solid paleturquoise;
+  padding: 10px;
+  margin: 2rem;
+  opacity: .75;
+}
+
+h1 {
+  text-align: center;
 }
